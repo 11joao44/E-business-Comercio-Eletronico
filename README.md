@@ -131,9 +131,83 @@ Dessa forma, Moacir não precisa se preocupar com a parte técnica da construç�
 - Integração futura com ferramentas de BI e remarketing (planejado para fase 2);
 - Webhooks prontos para integração com automações futuras (como URA ou automação de WhatsApp).
 
+## 5️⃣ Divulgação e Crescimento Digital – Estratégia de Atração, Engajamento e Autoridade
+
+### 🎯 Objetivo do Bloco
+Apresentar as estratégias para atrair tráfego qualificado, validar o MVP da Clave Prime e consolidar sua presença digital com foco em crescimento sustentável e autoridade no mercado musical.
+
 ---
 
-🔜 **Próximo bloco: Operações e Atendimento ao Cliente**  
-- Estratégia de logística com múltiplos modelos de entrega;  
-- Diferenciação de frete por canal (dropshipping, estoque próprio ou fornecedor local);  
-- Canais de atendimento, automações iniciais e humanização da experiência.
+### 🧪 Fase 1 – Validação com Tráfego Pago e Testes A/B
+
+**🔸 Canais sugeridos:**
+- **Instagram Ads / Facebook Ads**: campanhas visuais segmentadas por interesse musical (instrumentos, produção musical, aulas, etc.);
+- **Google Ads (Shopping e Pesquisa)**: foco em termos com intenção de compra (ex: “melhor violão para iniciantes”, “comprar teclado digital barato”);
+- **Campanhas geolocalizadas** (se houver vantagem logística regional).
+
+**🧪 Estratégia:**
+- Lançar **microcampanhas segmentadas**, testando variações de:
+  - Produtos com alta e média demanda;
+  - Abordagens de comunicação (promoção x orientação musical);
+  - Tipos de público (iniciante, presenteável, profissional).
+
+**📊 Indicadores de performance para acompanhar:**
+- CTR (taxa de clique nos anúncios);
+- Custo por conversão (quanto custa gerar uma venda);
+- Produtos com maior visualização;
+- Interações sociais (comentários, salvamentos, mensagens).
+
+---
+
+### 🧩 Fase 2 – Consolidação da Presença Digital
+
+**🔸 Redes sociais prioritárias:**
+- **Instagram** (vitrine visual, carrosséis de recomendação, vídeos curtos);
+- **YouTube (futuro)** para vídeos técnicos e educacionais;
+- **Pinterest** (secundário), como fonte de ideias visuais e produtos para presente.
+
+**🔸 Ações estratégicas:**
+- Criar uma **identidade visual coerente** com o posicionamento técnico e premium;
+- Compartilhar microconteúdos do tipo:
+  - “Como escolher seu primeiro violão?”
+  - “Top 3 pedais de guitarra custo-benefício”
+- Usar **prova social real** (avaliações, feedbacks, fotos de clientes) para construir confiança.
+
+---
+
+### 📬 Campanhas de Relacionamento com Shopify Email
+
+**Automatizações previstas:**
+- E-mail de boas-vindas ao cadastro;
+- Recuperação de carrinho abandonado;
+- Agradecimento pós-compra + incentivo de avaliação;
+- Informativos sobre novidades, lançamentos e promoções.
+
+**Estilo de comunicação:** técnico, acolhedor e direto ao ponto, reforçando a curadoria profissional.
+
+---
+
+### 🤝 Parcerias Estratégicas (futuro)
+
+- Influenciadores musicais (microinfluencers com engajamento real);
+- Escolas de música e professores parceiros (indicações e cupons);
+- Colaborações com canais de conteúdo musical (reviews, tutoriais, lives conjuntas).
+
+---
+
+### 🔄 Remarketing (planejado para fase futura)
+
+- Após validação e crescimento inicial, poderá ser implementado remarketing com base no comportamento dos visitantes:
+  - Públicos personalizados;
+  - Anúncios direcionados para quem acessou mas não comprou;
+  - Segmentos por tipo de produto.
+
+> ❗ Por enquanto, recursos como Pixel do Meta e Tags do Google Ads **não serão utilizados no MVP**, para manter a simplicidade operacional. Essas ferramentas serão consideradas estrategicamente em uma fase posterior, conforme o crescimento da loja e necessidade de otimização de campanhas.
+
+---
+
+🔜 **Próximo bloco: Visão de Futuro**
+- Expansão do ecossistema digital;
+- Novas vertentes da marca;
+- Reforço da curadoria, consultoria e produtos digitais.
+
