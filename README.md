@@ -64,12 +64,44 @@ Pais e familiares buscando um presente musical com segurança
 
 ---
 
-## 🔜 Próximo bloco: Infraestrutura Digital
-Será detalhado:
-- Plataforma SaaS (Shopify) e seus benefícios
-- Integrações com meios de pagamento, frete e CRM
-- Recursos automatizados que ajudam na escalabilidade
+## 3️⃣ Infraestrutura Digital – Plataforma, Integrações e Automação
+
+### 🛒 Plataforma Shopify – Escolha Estratégica para o MVP
+
+- A Clave Prime será lançada com base na **plataforma Shopify**, uma solução SaaS robusta, segura e escalável.
+- Justificativas para a escolha:
+  - **Rapidez na implementação** (ideal para MVP);
+  - Infraestrutura confiável e atualizações automáticas;
+  - Integração facilitada com gateways de pagamento, logística e apps de terceiros;
+  - Suporte técnico e comunidade ativa;
+  - Permite validação de hipóteses sem necessidade de desenvolvimento interno inicial.
+
+### 🔌 Integrações Essenciais na Primeira Fase
+
+| Área | Ferramenta | Objetivo |
+|------|------------|----------|
+| Pagamento | Mercado Pago, Pix, Cartão via Shopify Payments | Agilidade, segurança e diversidade de opções |
+| Frete | Correios + Transportadoras | Cálculo automático de frete com opções variadas |
+| CRM | Plugin de CRM simples ou planilha integrada | Coleta e centralização dos dados dos clientes |
+| Atendimento | E-mail / Formulário / Chatbot leve | Atendimento direto e confiável no início da operação |
+
+### 🔍 Nota explicativa sobre CRM:
+- Nesta fase inicial, a Clave Prime utilizará uma abordagem de CRM simplificada. Isso pode ser feito via:
+  Plugins leves integrados ao Shopify, que permitem armazenar e visualizar dados dos clientes, histórico de compras e automações básicas;
+
+### ⚙️ Automatizações Estratégicas
+
+- Envio automático de e-mails de confirmação e acompanhamento de pedidos;
+- Aplicativo de avaliação automática pós-compra (reforço de confiança e feedback);
+- Integração futura com ferramentas de BI e remarketing (planejado para fase 2);
+- Webhooks prontos para integração com automações futuras (como URA ou automação de WhatsApp).
 
 ---
 
-> Documento em construção. Etapas revisadas com João Pedro antes de cada avanço.
+🔜 **Próximo bloco: Operações e Atendimento ao Cliente**
+
+- Estratégia de logística com múltiplos modelos de entrega;
+- Diferenciação de frete por canal (dropshipping, estoque próprio ou fornecedor local);
+- Canais de atendimento, automações iniciais e humanização da experiência.
+
+---
