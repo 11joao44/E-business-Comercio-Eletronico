@@ -14,6 +14,12 @@
 **Proposta de Valor:**
 A Clave Prime é mais do que uma loja de instrumentos musicais — é uma curadoria confiável para quem deseja comprar com segurança, orientação técnica e variedade. Nosso objetivo é oferecer produtos com alto volume de pesquisa, aliado a uma seção diferenciada de usados (“Desapega Musical”), sempre com atendimento acessível, logística nacional e presença digital estratégica.
 
+## 👨‍💼 Papel no Projeto
+
+Atuo como **Assessor de E-business** da Clave Prime, marca idealizada pelo músico Moacir para comercialização nacional de instrumentos musicais por meio do comércio eletrônico. Fui contratado para **desenvolver a estratégia digital da loja**, orientando desde a concepção da marca até a definição do modelo de negócio, plataforma, logística, atendimento e divulgação, com foco na validação de um MVP eficiente, escalável e conectado à realidade do mercado musical atual.
+
+Neste documento, apresento as recomendações estruturadas para cada etapa do projeto, com base em critérios técnicos, visão estratégica e decisões orientadas por dados e boas práticas do e-commerce moderno.
+
 🧩 Estrutura Estratégica da Assessoria
 Bloco	Tema	Objetivo
 1️⃣	Identidade da Marca	Definir o tom, a essência e a proposta visual/comunicacional
