@@ -76,18 +76,53 @@ Pais e familiares buscando um presente musical com segurança
   - Suporte técnico e comunidade ativa;
   - Permite validação de hipóteses sem necessidade de desenvolvimento interno inicial.
 
+### 👨‍💼 Papel do E-business na Criação da Loja Shopify
+
+Como Assessor de E-business, meu papel não é realizar o desenvolvimento técnico direto da loja, mas sim:
+
+- **Definir os requisitos estratégicos** para a experiência de navegação, vitrine de produtos, integrações e jornada do cliente;
+- **Escolher e validar a plataforma adequada** (Shopify, neste caso);
+- **Mapear e sugerir os recursos essenciais** do MVP (temas, apps, fluxos de frete e pagamento);
+- **Acompanhar a execução junto a especialistas**, garantindo que a loja atenda ao plano de negócio e à proposta da marca.
+
+> 💼 Como profissional com networking ativo no ecossistema digital, terei a responsabilidade de **recomendar especialistas de confiança** (designers, desenvolvedores Shopify Partners, redatores e consultores visuais), garantindo agilidade e excelência na entrega.
+
+Dessa forma, Moacir não precisa se preocupar com a parte técnica da construção, mas terá acesso a **soluções profissionais com curadoria e direcionamento estratégico garantido**.
+
+---
+
 ### 🔌 Integrações Essenciais na Primeira Fase
 
 | Área | Ferramenta | Objetivo |
 |------|------------|----------|
 | Pagamento | Mercado Pago, Pix, Cartão via Shopify Payments | Agilidade, segurança e diversidade de opções |
 | Frete | Correios + Transportadoras | Cálculo automático de frete com opções variadas |
-| CRM | Plugin de CRM simples ou planilha integrada | Coleta e centralização dos dados dos clientes |
-| Atendimento | E-mail / Formulário / Chatbot leve | Atendimento direto e confiável no início da operação |
+| CRM | Plugins leves integrados ao Shopify | Coletar e organizar dados de clientes de forma simples |
+| Atendimento | WhatsApp Business API / Formulário / Chatbot leve | Atendimento direto e confiável no início da operação |
 
-### 🔍 Nota explicativa sobre CRM:
-- Nesta fase inicial, a Clave Prime utilizará uma abordagem de CRM simplificada. Isso pode ser feito via:
-  Plugins leves integrados ao Shopify, que permitem armazenar e visualizar dados dos clientes, histórico de compras e automações básicas;
+> 🔍 **Nota explicativa sobre CRM:**  
+> Nesta fase inicial, a Clave Prime utilizará uma abordagem de CRM simplificada. Isso pode ser feito via:
+> - **Plugins leves integrados ao Shopify**, que permitem armazenar e visualizar dados dos clientes, histórico de compras e automações básicas;
+> Essa abordagem permite controle e personalização sem custos elevados, e poderá evoluir para um CRM robusto conforme o crescimento do negócio.
+
+---
+
+### 📧 E-mail no MVP – Shopify Email como solução nativa
+
+- Para o MVP da Clave Prime, será utilizado o **Shopify Email**, ferramenta nativa da plataforma, ideal para:
+  - Envio automático de confirmações de pedido e atualizações de entrega;
+  - Campanhas simples de e-mail marketing (ex: lançamento de categorias, promoções);
+  - Comunicação básica com clientes cadastrados.
+
+> 🔍 **Vantagens da escolha**:
+> - Não exige configuração externa ou contratação adicional;
+> - Já está integrado à base de clientes e pedidos da loja;
+> - É gratuito até um volume inicial de envios (ex: 10.000 e-mails/mês);
+> - Permite iniciar ações de relacionamento com agilidade e baixo custo.
+
+> 💡 **Fase futura (expansão):** Quando o volume e a formalidade das interações aumentarem, será recomendada a contratação de um serviço de e-mail profissional (ex: Zoho Mail ou Google Workspace), com domínio personalizado como `contato@claveprime.com.br`, ideal para atendimento direto, parcerias e institucionalização da marca.
+
+---
 
 ### ⚙️ Automatizações Estratégicas
 
@@ -98,10 +133,7 @@ Pais e familiares buscando um presente musical com segurança
 
 ---
 
-🔜 **Próximo bloco: Operações e Atendimento ao Cliente**
-
-- Estratégia de logística com múltiplos modelos de entrega;
-- Diferenciação de frete por canal (dropshipping, estoque próprio ou fornecedor local);
+🔜 **Próximo bloco: Operações e Atendimento ao Cliente**  
+- Estratégia de logística com múltiplos modelos de entrega;  
+- Diferenciação de frete por canal (dropshipping, estoque próprio ou fornecedor local);  
 - Canais de atendimento, automações iniciais e humanização da experiência.
-
----
