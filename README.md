@@ -1,15 +1,18 @@
-🎯 Clave Prime – Estratégia de E-business
-📘 Visão Geral do Projeto
-Nome da Loja: Clave Prime
-Segmento: Instrumentos Musicais e Acessórios
-Modelo de Negócio: E-commerce nacional via dropshipping e parcerias com fabricantes
-Plataforma Inicial: Shopify (modelo SaaS) para validação de MVP
-Público-alvo:
+# 🎯 Clave Prime – Estratégia de E-business
 
-Músicos profissionais e estudantes
-Aspirantes e iniciantes no universo musical
-Pessoas comuns buscando presentear com instrumentos de qualidade
-Proposta de Valor: A Clave Prime é mais do que uma loja de instrumentos musicais — é uma curadoria confiável para quem deseja comprar com segurança, orientação técnica e variedade. Nosso objetivo é oferecer produtos com alto volume de pesquisa, aliado a uma seção diferenciada de usados (“Desapega Musical”), sempre com atendimento acessível, logística nacional e presença digital estratégica.
+## 📘 Visão Geral do Projeto
+
+**Nome da Loja:** Clave Prime  
+**Segmento:** Instrumentos Musicais e Acessórios  
+**Modelo de Negócio:** E-commerce nacional via dropshipping e parcerias com fabricantes  
+**Plataforma Inicial:** Shopify (modelo SaaS) para validação de MVP  
+**Público-alvo:**
+- Músicos profissionais e estudantes
+- Aspirantes e iniciantes no universo musical
+- Pessoas comuns buscando presentear com instrumentos de qualidade
+
+**Proposta de Valor:**
+A Clave Prime é mais do que uma loja de instrumentos musicais — é uma curadoria confiável para quem deseja comprar com segurança, orientação técnica e variedade. Nosso objetivo é oferecer produtos com alto volume de pesquisa, aliado a uma seção diferenciada de usados (“Desapega Musical”), sempre com atendimento acessível, logística nacional e presença digital estratégica.
 
 🧩 Estrutura Estratégica da Assessoria
 Bloco	Tema	Objetivo
